@@ -1,0 +1,110 @@
+.toplevel_page_RCON_server_stats
+  #wpbody-content
+  .RCON_server_stats_wrap_content_inner {
+  padding-left: 15px;
+}
+.toplevel_page_RCON_server_stats #wpcontent {
+  margin-left: 140px;
+}
+.toplevel_page_RCON_server_stats #wpbody-content {
+  padding-bottom: 0;
+}
+.toplevel_page_RCON_server_stats #wpbody-content .wrap {
+  margin: 0;
+}
+.toplevel_page_RCON_server_stats .nav-tab-wrapper {
+  background-color: #1d2327;
+}
+.toplevel_page_RCON_server_stats
+  #wpbody-content
+  .menu_RCON_server_stats_plugin_title {
+  height: max-content;
+  background-color: #1d2327;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+.toplevel_page_RCON_server_stats
+  #wpbody-content
+  .menu_RCON_server_stats_plugin_title
+  span {
+  width: 100%;
+  order: 2;
+}
+.toplevel_page_RCON_server_stats
+  #wpbody-content
+  .menu_RCON_server_stats_plugin_title
+  span
+  a {
+  color: white;
+  text-decoration: none;
+}
+.toplevel_page_RCON_server_stats
+  #wpbody-content
+  .menu_RCON_server_stats_plugin_title
+  span
+  a:hover {
+  text-decoration: underline;
+}
+.toplevel_page_RCON_server_stats
+  #wpbody-content
+  .menu_RCON_server_stats_plugin_title
+  h2 {
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: white;
+  margin: 0;
+  padding-bottom: 10px;
+  width: 100%;
+  order: 1;
+}
+.toplevel_page_RCON_server_stats
+  #wpbody-content
+  .menu_RCON_server_stats_plugin_footer {
+  height: max-content;
+  background-color: #1d2327;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+.toplevel_page_RCON_server_stats
+  #wpbody-content
+  .menu_RCON_server_stats_plugin_footer
+  a {
+  color: white;
+  text-decoration: underline;
+}
+.toplevel_page_RCON_server_stats
+  #wpbody-content
+  .menu_RCON_server_stats_plugin_footer
+  a:hover {
+  text-decoration: none;
+}
+
+.toplevel_page_RCON_server_stats .updated.w3tc_note {
+  display: none !important;
+}
+.toplevel_page_RCON_server_stats div#setting-error-settings_updated {
+  color: white;
+  background-color: #006e00;
+  border: none;
+  text-align: center;
+  padding: 2px !important;
+  margin: 10px;
+  width: 100%;
+  order: 9;
+}
+.toplevel_page_RCON_server_stats .tab-content.hide {
+  display: none;
+}
+.toplevel_page_RCON_server_stats .tab-content.hide.content-tab-active {
+  display: block;
+}
