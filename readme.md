@@ -18,8 +18,7 @@ Plugin is using own api to get data. Everything is free to use. Api link: https:
 
 Sample of use of plugin you can check at https://vxh.pl
 
-
-== Frequently Asked Questions ==
+Plugin allow you to collect data about your server into ACF Field of Custom Post Type that you can create.
 
 = Which games plugin support? =
 
