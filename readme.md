@@ -25,9 +25,9 @@ Plugin allow you to collect data about your server into ACF Field of Custom Post
 All games using Source Rcon
 
 == Screenshoots ==
-![Screenshot](https://vxh.pl/wp-content/uploads/2023/05/1.png)](https://vxh.pl/wp-content/uploads/2023/05/1.png) "Screen Shoot n.1")
-![Screenshot](https://vxh.pl/wp-content/uploads/2023/05/2.png) "Screen Shoot n.2")
-![Screenshot](https://vxh.pl/wp-content/uploads/2023/05/3.png) "Screen Shoot n.3")
+![Screenshot 1](https://vxh.pl/wp-content/uploads/2023/05/1.png)
+![Screenshot 2](https://vxh.pl/wp-content/uploads/2023/05/2.png) 
+![Screenshot 3](https://vxh.pl/wp-content/uploads/2023/05/3.png) 
 
 == Changelog ==
 
